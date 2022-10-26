@@ -16,7 +16,6 @@
 Coding Task was build with **MVVM** architecture and **Material3 UI**
 **RegistrationViewModel.kt** is handling all the data changes and data validations from **UI**
 **ConfirmationViewModel.kt** is observing data changes from **DataStore**
-If validation passes data is stored in **DataStore** using a custom Json Serializer from **
-kotlinx-serialization-json**
+If validation passes data is stored in **DataStore** using a custom Json Serializer from **kotlinx-serialization-json**
 
 Also I included validators UnitTests and UI tests
